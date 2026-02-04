@@ -56,9 +56,11 @@
 以上。
 ## 2.1 爬虫采集模块
 此软件开发成本较高，代码量大、实现逻辑复杂，为保护个人知识版权，防止恶意盗版软件，不展示爬虫核心代码。
-## 2.2 cookie获取
-运行软件之前，需要填写cookie值到txt配置文件中，获取方法如下：
-![在开发者模式中获取cookie值](https://files.mdnice.com/user/32110/ad27aa12-0c29-4461-bb70-b9e73554658d.png)
+
+## 2.2 一键配置cookie
+开始采集前，先用内置的《cookie小工具》自动配置好cookie。
+<img width="1734" height="1250" alt="ScreenShot_2026-02-04_074716_952" src="https://github.com/user-attachments/assets/56dd1a9b-d865-4c21-95dd-d0b486cf2089" />
+这样，获取到的cookie值就自动写入cookie.txt文件中了，告别繁琐的手动获取。
 
 ## 2.3 软件界面模块
 主窗口部分：
@@ -120,11 +122,18 @@ def get_logger(self):
 季卡：使用期限3个月，499元。季卡可多次购买。适合中期采集需求
 年卡：使用期限1年，999元。年卡可多次购买。适合长期采集需求
 ```
-付费方式：<img width="1528" height="918" alt="收款码v2" src="https://github.com/user-attachments/assets/314cf196-ce43-4d0c-a572-c04eaf357d5c" />
-付费后，加我v（493882434）自动掉落登录卡密。
+**方式一：自助开通（推荐）**
+
+开通入口：https://mgnb.pro/product/pgy
+
+**方式二：自助开通**
+
+开通入口：https://kjyjf.xetlk.com/s/2uCpIG
+
+**方式三：手动开通，付费后加v（493882434）对接**<img width="2324" height="604" alt="收款码v5" src="https://github.com/user-attachments/assets/3d20c43e-3846-4e1d-b469-d54ac8ea39ae" />
 
 ## 3.2 一机一码
-软件采用一机一码机制，一个卡密只能在一台电脑运行、不可多电脑运行。
+为防止软件被恶意转卖，采用一机一码机制，一个卡密只能在一台电脑运行、不可多电脑运行
 
 ## 3.3 软件多开
 一台电脑仅允许运行一个软件，不支持软件多开。
@@ -133,6 +142,7 @@ def get_logger(self):
 软件由本人独立原创开发，长期维护更新，提供稳定运行​。
 
 # 四、软件首发
-"**爬蒲公英软件**"首发于公众号"**老男孩的平凡之路**"，欢迎交流！
-![二维码-公众号放底部](https://github.com/user-attachments/assets/b98aa9f5-aff2-450f-995d-b5df0172da08)
+公众号"**老男孩的平凡之路**"，后台回复"**爬蒲公英软件**"获取最新版软件安装包。
+<img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/415dbbe5-a797-4c66-a46d-d610eb082502" />
+
 
