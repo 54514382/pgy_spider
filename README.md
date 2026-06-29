@@ -122,15 +122,9 @@ def get_logger(self):
 季卡：使用期限3个月，499元。季卡可多次购买。适合中期采集需求
 年卡：使用期限1年，999元。年卡可多次购买。适合长期采集需求
 ```
-**方式一：自助开通（推荐）**
 
-开通入口：https://mgnb.pro/product/pgy
+卡密开通入口：https://mgnb.pro/product/pgy
 
-**方式二：自助开通**
-
-开通入口：https://kjyjf.xetlk.com/s/2uCpIG
-
-**方式三：手动开通，付费后加v（493882434）对接**<img width="2324" height="604" alt="收款码v5" src="https://github.com/user-attachments/assets/3d20c43e-3846-4e1d-b469-d54ac8ea39ae" />
 
 ## 3.2 一机一码
 为防止软件被恶意转卖，采用一机一码机制，一个卡密只能在一台电脑运行、不可多电脑运行
